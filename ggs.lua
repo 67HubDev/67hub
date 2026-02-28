@@ -1,2 +1,2 @@
-Đã Cập Nhật Phiên Bản v3.4
+Phiên Bản v3.4
 Chúc anh em chơi game vui vẻ nhé!<3
