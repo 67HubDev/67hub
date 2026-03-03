@@ -1,2 +1,4 @@
-Phiên Bản v3.7
-Chúc anh em chơi game vui vẻ nhé!<3
+- Nếu bị lỗi hãy vào Discord để hỗ trợ 
+- Script này là script tổng hợp nên không thể đóng menu script khác
+(nhưng sẽ tìm cách)
+- Gửi ý tưởng ở Tab Lỗi/Ý tưởng 
