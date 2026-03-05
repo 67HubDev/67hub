@@ -1,2 +1,3 @@
+[Phiên bản 4.0]
 - Nếu bị lỗi hãy vào Discord để hỗ trợ 
-- Ngày mai sẽ fix lỗi,thêm script,bỏ code auto jump,thêm tab nhân vật tsb👍
+- Chơi vv:3
