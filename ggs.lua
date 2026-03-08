@@ -1,3 +1,3 @@
 [Phiên bản 4.3]
-- Nếu bị lỗi hãy vào Discord để hỗ trợ,hãy đợi scprit load!
-- Sẽ thêm script mới,xem update ở tt
+- Tắt thanh nhạc ở phần âm nhạc 
+- Có vài script bị lỗi,ae dùng bản khác nhé!
