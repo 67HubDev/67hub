@@ -1,3 +1,3 @@
-[Phiên bản 4.5]
-- Xem Upd ở phần thông tin
-- Thêm chức năng bf cực mạnh🤯
+- Thêm script bf,evade,chơi vv
+- Thêm nhạc khô gà,Đăng ký kênh tiktok kaiiz_12 để tui có động lực:)!
+
