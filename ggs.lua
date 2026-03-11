@@ -1,3 +1,3 @@
-- Thêm script bf,evade,chơi vv
-- Thêm nhạc khô gà,Đăng ký kênh tiktok kaiiz_12 để tui có động lực:)!
-
+- Thêm bản update cuối cùng?,
+do một lí do nào đó tôi sẽ không update script vào một khoảng thời gian!
+- Good bye!🙂‍↕️
