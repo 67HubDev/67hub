@@ -1,3 +1,3 @@
-- Thêm bản update cuối cùng?,
-do một lí do nào đó tôi sẽ không update script vào một khoảng thời gian!
-- Good bye!🙂‍↕️
+- Nghỉ vì một số lí do...😌
+- Đừng hỏi tôi nữa, comeback một ngày nào đó
+- Xem tiktok kaiiz_12 để xem update tiếp theo
