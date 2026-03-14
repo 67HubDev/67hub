@@ -1,3 +1,3 @@
-[Phiên bản:V5.0]
+[Phiên bản:BETA]
 - Comback?
 - Xem UPD ở phần Thông Tin
