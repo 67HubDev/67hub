@@ -1,3 +1,3 @@
 [Phiên bản:BETA]
-- Comback?
-- Xem UPD ở phần Thông Tin
+- Thêm nút Log ở Tab Cài Đặt 
+- Thêm Script
