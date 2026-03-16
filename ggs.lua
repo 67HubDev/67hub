@@ -1,3 +1,3 @@
 [Phiên bản:BETA]
-- Thêm nút Log ở Tab Cài Đặt 
-- Thêm Script
+- Fix lỗi kẹt nút tsb
+- Hãy cho tui 1 follow pls và tham gia discrod nhé:)
